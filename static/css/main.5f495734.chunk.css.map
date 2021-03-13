@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/views/table/styles.css"],"names":[],"mappings":"AAAA,aACI,wBAAoC,CACpC,8BAAiC,CACjC,iBAAkB,CAClB,cACF","file":"main.5f495734.chunk.css","sourcesContent":[".card-border {\r\n    border: 1px solid rgb(201, 201, 201);\r\n    padding: 2.3rem 0.5rem !important;\r\n    border-radius: 4px;\r\n    margin: 0.5rem 0;\r\n  }\r\n  "]}
